@@ -1,2 +1,2 @@
 # getip
-Coordinate DMCP-issiued IP addresses between two machines, using a common email address.
+Coordinate DHCP-issued IP addresses between two machines, using a common email address.
